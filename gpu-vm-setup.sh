@@ -26,7 +26,7 @@ sudo apt autoremove
 if [[ "$UTILITIES" -eq 1 ]]; then
     #aria2 - modern wget/cURL alternative
     #git - source control
-    sudo apt install git aria2
+    sudo apt install -y git aria2
 
     # oh-my-bash
     bash -c "$(aria2c https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh -O -)"
