@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# SPDX-FileCopyrightText: 2022 Deren Vural 2022
+# SPDX-FileCopyrightText: 2022 Deren Vural
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 ##
