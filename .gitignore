@@ -1,0 +1,10 @@
+# reuse
+.reuse/*
+# vscode
+.vscode/*
+*.code-workspace
+# trunk
+.trunk/*
+# nano
+*.swp
+*/*.swp
